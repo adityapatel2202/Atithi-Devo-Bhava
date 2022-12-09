@@ -1,12 +1,3 @@
-Admin Login button is in the bottom of the page. Here is the default login credentials:
-
-Login ID:
-admin@gmail.com
-
-
-Password: 
-adminadmin
-
 
 1.	First open the project and explain about project and its features.
 
